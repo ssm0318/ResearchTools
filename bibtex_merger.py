@@ -54,9 +54,12 @@ def create_signature(entry: Dict) -> Tuple[str, str, int]:
     signature_hash = hash(title[:50] + authors[:30])
     return (title, authors, signature_hash)
 
-
+# The logic for generating unique IDs will now be handled in the main process.
 def merge_single_group(args: Tuple[List[int], List[Dict]]) -> Dict:
-    """Merge a single group of duplicate entries."""
+    """
+    Merge a single group of duplicate entries.
+    This function no longer generates a unique ID to avoid concurrency issues.
+    """
     group_indices, entries = args
 
     if len(group_indices) == 1:
@@ -74,17 +77,6 @@ def merge_single_group(args: Tuple[List[int], List[Dict]]) -> Dict:
             if key not in merged or not merged[key] or len(str(value)) > len(str(merged[key])):
                 merged[key] = value
 
-    # Generate clean ID
-    title_words = clean_string(merged.get('title', '')).split()[:3]
-    year = merged.get('year', merged.get('date', ''))[:4] if merged.get('year', merged.get('date', '')) else 'noyear'
-
-    if title_words:
-        new_id = ''.join(word.capitalize() for word in title_words if word.isalnum())
-        new_id = f"{new_id}{year}"
-    else:
-        new_id = f"entry{year}"
-
-    merged['ID'] = new_id
     return merged
 
 
@@ -267,23 +259,62 @@ class HighPerformanceBibTeXMerger:
         return list(groups.values())
     
     def merge_entries_parallel(self, entries: List[Dict], duplicate_groups: List[List[int]]) -> List[Dict]:
-        """Merge duplicate groups in parallel."""
+        """Merge duplicate groups in parallel and then generate unique IDs in a single thread."""
         print("Merging duplicate groups...")
         
         # Prepare data for parallel processing
         merge_data = [(group_indices, entries) for group_indices in duplicate_groups]
         
-        # Process groups in parallel
+        # Process groups in parallel to merge fields
         chunk_size = max(1, len(duplicate_groups) // (self.max_workers * 2))
         
         with ProcessPoolExecutor(max_workers=self.max_workers) as executor:
             merged_entries = list(executor.map(merge_single_group, merge_data, chunksize=chunk_size))
-        
+
+        # Now, generate unique IDs in a single-threaded loop to avoid duplicates
+        unique_ids = set()
+        final_merged_entries = []
+        for merged in merged_entries:
+            # Generate clean ID based on last name, year, and title
+            first_author_lastname = 'unknown'
+            if 'author' in merged:
+                authors = merged['author'].split(' and ')
+                if authors:
+                    first_author_name = authors[0].split(',')
+                    first_author_lastname = clean_string(first_author_name[0]).replace(' ', '')
+            
+            year = merged.get('year', merged.get('date', ''))
+            year_str = year[:4] if year else 'noyear'
+
+            title_words = clean_string(merged.get('title', '')).split()
+            title_part = ''
+            if title_words:
+                # Use first two words of the title for specificity
+                title_part = ''.join(word.capitalize() for word in title_words[:2] if word.isalnum())
+            
+            base_id = f"{first_author_lastname}{year_str}"
+            
+            # Add a suffix if a key with the same base exists
+            new_id = base_id
+            if new_id in unique_ids:
+                # Add title words for uniqueness
+                new_id = f"{base_id}{title_part}"
+                if new_id in unique_ids:
+                    # Fallback to a numbered suffix if still not unique
+                    counter = 1
+                    while f"{new_id}{counter}" in unique_ids:
+                        counter += 1
+                    new_id = f"{new_id}{counter}"
+
+            unique_ids.add(new_id)
+            merged['ID'] = new_id
+            final_merged_entries.append(merged)
+
         # Count duplicates
         total_duplicates = sum(len(group) - 1 for group in duplicate_groups if len(group) > 1)
-        print(f"Merged {total_duplicates} duplicate entries into {len(merged_entries)} unique entries")
+        print(f"Merged {total_duplicates} duplicate entries into {len(final_merged_entries)} unique entries")
         
-        return merged_entries
+        return final_merged_entries
     
     def write_output_files(self, merged_entries: List[Dict], max_lines: int = 10000, 
                            base_filename: str = "references") -> None:
@@ -380,4 +411,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
