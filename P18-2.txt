@@ -1,0 +1,1775 @@
+WEBVTT
+
+00:00:42.000 --> 00:00:43.000
+JaeWon Kim: Hey!
+
+00:00:43.000 --> 00:00:44.000
+Anika Rigby: Hello!
+
+00:00:44.000 --> 00:00:46.000
+JaeWon Kim: How are you?
+
+00:00:46.000 --> 00:00:48.000
+Anika Rigby: Good. Yeah.
+
+00:00:48.000 --> 00:00:48.000
+JaeWon Kim: Um.
+
+00:00:48.000 --> 00:00:50.000
+Anika Rigby: Doing pretty well, you.
+
+00:00:50.000 --> 00:00:56.000
+JaeWon Kim: Uh yeah. Um. Do you remember what we talked about last week? Or do you want me to just like.
+
+00:00:57.000 --> 00:00:59.000
+JaeWon Kim: Go over uh.
+
+00:00:58.000 --> 00:01:01.000
+Anika Rigby: Um kind of.
+
+00:01:01.000 --> 00:01:03.000
+JaeWon Kim: Yeah.
+
+00:01:01.000 --> 00:01:03.000
+Anika Rigby: Maybe going over would be helpful.
+
+00:01:03.000 --> 00:01:07.000
+JaeWon Kim: Yeah. So we were talking about version 2, a little bit, um, and.
+
+00:01:07.000 --> 00:01:11.000
+JaeWon Kim: Oops. I closed the features. Thing.
+
+00:01:11.000 --> 00:01:13.000
+JaeWon Kim: Just give me one second.
+
+00:01:13.000 --> 00:01:15.000
+JaeWon Kim: Oh, there we go!
+
+00:01:24.000 --> 00:01:29.000
+JaeWon Kim: Um. So these were the features that we had on version R. We have the scrollable feed.
+
+00:01:29.000 --> 00:01:34.000
+JaeWon Kim: Version Q was the one with the questions, emoji reactions, private comments. You could send the questions.
+
+00:01:34.000 --> 00:01:37.000
+JaeWon Kim: Post trends by default list, view.
+
+00:01:37.000 --> 00:01:43.000
+JaeWon Kim: Um. And by this view I meant the list of profiles. Um.
+
+00:01:43.000 --> 00:01:47.000
+JaeWon Kim: And check-ins, persona number of likes and followers, and.
+
+00:01:47.000 --> 00:01:51.000
+JaeWon Kim: Um so um. I already asked.
+
+00:01:51.000 --> 00:01:56.000
+JaeWon Kim: This, but just to go over a little bit. Um, any like.
+
+00:01:57.000 --> 00:02:01.000
+JaeWon Kim: Um moments that stood out while you were using version 2.
+
+00:02:02.000 --> 00:02:08.000
+Anika Rigby: Um. I think I already talked about one, but I was thinking this morning also.
+
+00:02:08.000 --> 00:02:15.000
+Anika Rigby: There was another time I was in this academic competition, and we were able to win. 1st place.
+
+00:02:15.000 --> 00:02:18.000
+Anika Rigby: And one of my other friends is also in that competition on my team.
+
+00:02:19.000 --> 00:02:24.000
+Anika Rigby: And I think um, it was really nice, because we were able to like post.
+
+00:02:24.000 --> 00:02:28.000
+Anika Rigby: Our success, and, like our announcement to a few of our friends.
+
+00:02:28.000 --> 00:02:30.000
+Anika Rigby: In kind of a.
+
+00:02:31.000 --> 00:02:34.000
+Anika Rigby: Manner that felt like very um.
+
+00:02:34.000 --> 00:02:37.000
+Anika Rigby: I'm not really sure the word, but like more.
+
+00:02:38.000 --> 00:02:40.000
+Anika Rigby: Private and close.
+
+00:02:40.000 --> 00:02:42.000
+Anika Rigby: Way, like kind of.
+
+00:02:42.000 --> 00:02:49.000
+Anika Rigby: It felt like we were very like very able to connect with others, and people were able to react like with emojis or.
+
+00:02:49.000 --> 00:02:54.000
+Anika Rigby: With private comments to it really easily, which I think was really just kind of.
+
+00:02:54.000 --> 00:02:55.000
+Anika Rigby: Cute. I don't know.
+
+00:02:55.000 --> 00:03:03.000
+JaeWon Kim: Yeah. Oh, you actually mentioned that um, it would be a good thing to use to connect with new people that you're interested in.
+
+00:03:03.000 --> 00:03:04.000
+JaeWon Kim: Um.
+
+00:03:06.000 --> 00:03:09.000
+JaeWon Kim: Could you elaborate on that a little bit, please.
+
+00:03:09.000 --> 00:03:16.000
+Anika Rigby: I mean, I, personally, didn't have any outstanding experiences with connecting to new people. Of course, like I added a few.
+
+00:03:16.000 --> 00:03:18.000
+Anika Rigby: But overall, I think.
+
+00:03:20.000 --> 00:03:22.000
+Anika Rigby: I don't know. I.
+
+00:03:22.000 --> 00:03:27.000
+Anika Rigby: Just because I was already close to a lot of people on the app.
+
+00:03:27.000 --> 00:03:32.000
+Anika Rigby: It was kind of difficult for me to connect with these others, but it was.
+
+00:03:32.000 --> 00:03:38.000
+Anika Rigby: Interesting to see what they're like up to or like if they're posting photos or just giving like the um.
+
+00:03:38.000 --> 00:03:44.000
+Anika Rigby: Check-ins. I think you can really kind of get a little bit of insight into that person's life.
+
+00:03:45.000 --> 00:03:50.000
+JaeWon Kim: Mhm yeah, so, um, what do you mean by like having close friends?
+
+00:03:51.000 --> 00:03:56.000
+JaeWon Kim: Being sort of a sort of a hurdle to making new friends, is it because they're like on the same feed and.
+
+00:03:56.000 --> 00:04:02.000
+Anika Rigby: Mhm, I think so. At least, in my mind, it's more of a priority for me, to see.
+
+00:03:57.000 --> 00:03:58.000
+JaeWon Kim: It.
+
+00:04:02.000 --> 00:04:05.000
+Anika Rigby: Um? What.
+
+00:04:05.000 --> 00:04:07.000
+Anika Rigby: Like my.
+
+00:04:07.000 --> 00:04:14.000
+Anika Rigby: Closer friends, or what my like real life friends are up to than these others that I only know from online.
+
+00:04:14.000 --> 00:04:16.000
+Anika Rigby: Or from just.
+
+00:04:16.000 --> 00:04:20.000
+Anika Rigby: I mean just from the app. But if the meaning of the app.
+
+00:04:20.000 --> 00:04:21.000
+Anika Rigby: Like.
+
+00:04:23.000 --> 00:04:28.000
+Anika Rigby: I think it depends on how each person designates the time that they put into the app, because.
+
+00:04:28.000 --> 00:04:35.000
+Anika Rigby: I was very busy during the trial period, so it was just kind of difficult overall for me to be able to.
+
+00:04:35.000 --> 00:04:40.000
+Anika Rigby: Use it. But I think for some people who are able to have more time, you can get a lot closer.
+
+00:04:40.000 --> 00:04:43.000
+Anika Rigby: And then also for using it to.
+
+00:04:43.000 --> 00:04:48.000
+Anika Rigby: No new people overall, and having that as kind of an overarching theme.
+
+00:04:48.000 --> 00:04:50.000
+Anika Rigby: On the app. Um.
+
+00:04:50.000 --> 00:04:52.000
+Anika Rigby: I'm not really sure.
+
+00:04:53.000 --> 00:04:56.000
+Anika Rigby: Like exactly how feasible it is, but.
+
+00:04:56.000 --> 00:05:00.000
+Anika Rigby: For I think I mentioned like having like groups for.
+
+00:05:00.000 --> 00:05:09.000
+Anika Rigby: Experiences or something where it's like people who are all in a new environment and trying to get to know each other. I think this would be very, very beneficial.
+
+00:05:10.000 --> 00:05:23.000
+JaeWon Kim: So I guess there's like close friends. And then uh people that you're trying to get to know better. And then there's strangers that are would remain just like Internet friends. Um.
+
+00:05:24.000 --> 00:05:27.000
+JaeWon Kim: In an ideal scenario or.
+
+00:05:28.000 --> 00:05:34.000
+JaeWon Kim: Either like on your end or your perception of um.
+
+00:05:34.000 --> 00:05:37.000
+JaeWon Kim: Like how this app is best used.
+
+00:05:38.000 --> 00:05:44.000
+JaeWon Kim: Who would you have on the app as friends out of those 3 categories, like close friends.
+
+00:05:44.000 --> 00:05:49.000
+JaeWon Kim: Um, friends, that you're getting to know better. And then, like Internet friends.
+
+00:05:50.000 --> 00:05:52.000
+Anika Rigby: Sorry could you clarify.
+
+00:05:51.000 --> 00:05:59.000
+JaeWon Kim: Yeah, like, um. Which which of the 3 groups of people do you think is most suitable for.
+
+00:05:59.000 --> 00:06:01.000
+JaeWon Kim: Version, 2.
+
+00:06:03.000 --> 00:06:06.000
+Anika Rigby: I think it's definitely a mix.
+
+00:06:06.000 --> 00:06:09.000
+Anika Rigby: There's a lot of different uses that you can get out of this app.
+
+00:06:10.000 --> 00:06:11.000
+Anika Rigby: Because.
+
+00:06:12.000 --> 00:06:18.000
+Anika Rigby: Um, for, like my real life, like close friends and actual friends, a lot of times I already kind of.
+
+00:06:18.000 --> 00:06:23.000
+Anika Rigby: Am able to predict what their answer to some of these questions might be on the daily questions.
+
+00:06:24.000 --> 00:06:31.000
+Anika Rigby: Whereas for meeting new people, I mean, you don't really know much about them, of course. So there's going to be a lot that you can learn about them just from the questions.
+
+00:06:32.000 --> 00:06:38.000
+Anika Rigby: But I mean still, even with close friends or friends, it's.
+
+00:06:38.000 --> 00:06:40.000
+Anika Rigby: Very interesting to see what they might be able to say.
+
+00:06:41.000 --> 00:06:44.000
+JaeWon Kim: Hmm so um.
+
+00:06:44.000 --> 00:06:47.000
+JaeWon Kim: Is it interesting to see.
+
+00:06:47.000 --> 00:06:50.000
+JaeWon Kim: What other people are answering.
+
+00:06:50.000 --> 00:06:55.000
+JaeWon Kim: Um. Because I'm asking this, because, like you ended up prioritizing your close friends.
+
+00:06:55.000 --> 00:07:01.000
+JaeWon Kim: Um. I'm wondering if that's because that's more interesting, or it's because you feel the like emotional pressure.
+
+00:07:01.000 --> 00:07:03.000
+JaeWon Kim: In a way to respond to them.
+
+00:07:05.000 --> 00:07:07.000
+Anika Rigby: Definitely a mix. Yeah.
+
+00:07:07.000 --> 00:07:12.000
+Anika Rigby: Because, like the online friends, a lot of times, they already.
+
+00:07:12.000 --> 00:07:16.000
+Anika Rigby: Like they have other people that they can talk to just because of the way the like.
+
+00:07:16.000 --> 00:07:21.000
+Anika Rigby: The usage of the app was set up for our purposes.
+
+00:07:21.000 --> 00:07:31.000
+Anika Rigby: But for my close friends, some of them were not as successful, I feel like in adding others as well, and I just wanted to be able to give them maybe more support. I suppose.
+
+00:07:31.000 --> 00:07:34.000
+Anika Rigby: But also again, like the interesting thing, because.
+
+00:07:35.000 --> 00:07:40.000
+Anika Rigby: Like I don't know. It's just nice to see what's going on inside their heads.
+
+00:07:40.000 --> 00:07:43.000
+JaeWon Kim: Hmm um.
+
+00:07:43.000 --> 00:07:47.000
+JaeWon Kim: Outside of version queue. When do you usually talk about these things?
+
+00:07:47.000 --> 00:07:49.000
+JaeWon Kim: If we do.
+
+00:07:48.000 --> 00:07:54.000
+Anika Rigby: I mean not so often honestly, because there are some questions that are like.
+
+00:07:54.000 --> 00:08:02.000
+Anika Rigby: What color of food would you like to eat for the rest of your life? That's not really something that's likely going to come up in conversation. I think those are definitely the questions that more.
+
+00:08:02.000 --> 00:08:06.000
+Anika Rigby: Caught my attention that, as compared to some of the others.
+
+00:08:06.000 --> 00:08:11.000
+Anika Rigby: Because a lot of them are very interesting, and I like that. You can go back into like past questions and go.
+
+00:08:11.000 --> 00:08:14.000
+Anika Rigby: And do those? Because.
+
+00:08:14.000 --> 00:08:20.000
+Anika Rigby: I mean, if you're gonna have daily questions, there's gonna be, of course, sometimes where not every single one is going to be.
+
+00:08:20.000 --> 00:08:22.000
+Anika Rigby: Super um like.
+
+00:08:23.000 --> 00:08:25.000
+Anika Rigby: Captivating, I suppose.
+
+00:08:25.000 --> 00:08:27.000
+JaeWon Kim: Mhm yeah.
+
+00:08:27.000 --> 00:08:35.000
+JaeWon Kim: Hmm. Then, in terms of the interactions with your closer friends. Which of these features on version queue helps? Um.
+
+00:08:36.000 --> 00:08:38.000
+JaeWon Kim: The most, I guess.
+
+00:08:39.000 --> 00:08:43.000
+Anika Rigby: Um, I think. Check-ins.
+
+00:08:43.000 --> 00:08:45.000
+Anika Rigby: Yeah, I would say check-ins, because.
+
+00:08:46.000 --> 00:08:50.000
+Anika Rigby: Seeing how someone's headspace is, is really important for me, because.
+
+00:08:51.000 --> 00:08:53.000
+Anika Rigby: I try to be someone who's.
+
+00:08:53.000 --> 00:08:55.000
+Anika Rigby: Very like.
+
+00:08:55.000 --> 00:08:59.000
+Anika Rigby: Not going past people's boundaries, you know, of course, and.
+
+00:08:59.000 --> 00:09:10.000
+Anika Rigby: I think that the check-ins really helped me be like, oh, well, this person might not be doing so great. Maybe I should ask them how they're doing, or just leave them alone, whereas if they're celebrating something like.
+
+00:09:10.000 --> 00:09:16.000
+Anika Rigby: My friend and I did during the time. We can also have people reach out and be like, hey congratulations.
+
+00:09:17.000 --> 00:09:23.000
+Anika Rigby: And I think that was really nice, just because it's kind of a small thing, it. But it's like.
+
+00:09:23.000 --> 00:09:29.000
+Anika Rigby: I don't know if you've heard of the like. Low maintenance, friendship, idea like kind of like that, and.
+
+00:09:29.000 --> 00:09:32.000
+Anika Rigby: I don't know. And also the songs were really fun.
+
+00:09:30.000 --> 00:09:32.000
+JaeWon Kim: Is it.
+
+00:09:32.000 --> 00:09:38.000
+JaeWon Kim: Yeah. Um, is that a thing low maintenance? Friendship is, is that like a thing that you guys talk about or.
+
+00:09:38.000 --> 00:09:43.000
+Anika Rigby: I mean, not really. But it's it's something that I've seen online before, where basically, it's like.
+
+00:09:43.000 --> 00:09:48.000
+Anika Rigby: People that you can be friends with, but not you don't have to talk to them every day.
+
+00:09:48.000 --> 00:09:52.000
+Anika Rigby: Which is good for some people, especially introverts, because.
+
+00:09:52.000 --> 00:09:56.000
+Anika Rigby: Sometimes talking to all of your friends every day can be a little bit draining.
+
+00:09:56.000 --> 00:10:02.000
+JaeWon Kim: Mhm yeah, so are those people like, strictly Internet friends, usually, or is it like in real life friends, that.
+
+00:10:03.000 --> 00:10:05.000
+JaeWon Kim: Or like, loosely connected with you, online.
+
+00:10:05.000 --> 00:10:07.000
+Anika Rigby: I think it can be.
+
+00:10:08.000 --> 00:10:12.000
+Anika Rigby: Either. I don't have a lot of Internet friends because of.
+
+00:10:12.000 --> 00:10:14.000
+Anika Rigby: Um, some.
+
+00:10:15.000 --> 00:10:20.000
+Anika Rigby: Personal ideas that I have, and kind of worries that I have, I suppose, about meeting.
+
+00:10:20.000 --> 00:10:22.000
+Anika Rigby: People strictly online.
+
+00:10:22.000 --> 00:10:25.000
+Anika Rigby: But I think with a lot of my real life friends.
+
+00:10:25.000 --> 00:10:31.000
+Anika Rigby: Like, we're all very busy people. So having being able to know that they're there, but.
+
+00:10:31.000 --> 00:10:34.000
+Anika Rigby: Not having to constantly.
+
+00:10:34.000 --> 00:10:36.000
+Anika Rigby: Um update them is.
+
+00:10:36.000 --> 00:10:40.000
+Anika Rigby: Kind of nice, but I think that wit is also.
+
+00:10:40.000 --> 00:10:44.000
+Anika Rigby: Beneficial for being able to update them, but in an easy way that.
+
+00:10:44.000 --> 00:10:46.000
+Anika Rigby: All of your friends could be able to see.
+
+00:10:47.000 --> 00:10:49.000
+JaeWon Kim: We have some design ideas. Um.
+
+00:10:50.000 --> 00:10:55.000
+JaeWon Kim: One is having 2 different feeds for your closer friends. Keep.
+
+00:10:55.000 --> 00:11:03.000
+JaeWon Kim: The format of version Q, or either like, let it expand for each person when you click on it so like.
+
+00:11:04.000 --> 00:11:11.000
+JaeWon Kim: Not all posts show up um! As like a scrollable feed you each have your own space, but you don't have to like click into the.
+
+00:11:11.000 --> 00:11:18.000
+JaeWon Kim: Each profile. Um, and then you would have a separate uh feed for strangers. Sort of.
+
+00:11:18.000 --> 00:11:25.000
+JaeWon Kim: Where it's anonymized, and you can connect with them. But it's like in a scrollable manner. So it's more like content.
+
+00:11:25.000 --> 00:11:29.000
+JaeWon Kim: Exploration rather than like user based.
+
+00:11:29.000 --> 00:11:31.000
+Anika Rigby: Mhm.
+
+00:11:29.000 --> 00:11:33.000
+JaeWon Kim: Do you think that would help in terms of the user experience.
+
+00:11:34.000 --> 00:11:36.000
+Anika Rigby: I really like that idea. I think.
+
+00:11:37.000 --> 00:11:41.000
+Anika Rigby: Yeah, because on the original version, queue, not having any sort of.
+
+00:11:41.000 --> 00:11:47.000
+Anika Rigby: Like real feed was a little bit difficult for me, just because I'm a bit lazy.
+
+00:11:47.000 --> 00:11:52.000
+Anika Rigby: And I didn't want to click on every person's profile to see what they're up to.
+
+00:11:52.000 --> 00:11:56.000
+Anika Rigby: So, being able to like expand those profiles is really nice, and then also, like the anonymized.
+
+00:11:56.000 --> 00:11:58.000
+Anika Rigby: One, I think.
+
+00:11:59.000 --> 00:12:02.000
+Anika Rigby: It's so. Would that have like.
+
+00:12:03.000 --> 00:12:07.000
+Anika Rigby: Everybody on the app pretty much, just as a kind of algorithm.
+
+00:12:07.000 --> 00:12:09.000
+Anika Rigby: Based feed.
+
+00:12:09.000 --> 00:12:17.000
+JaeWon Kim: Yeah, I'm thinking that you can filter based on uh, you know, on Linkedin. There's like, first, st second, 3.rd
+
+00:12:16.000 --> 00:12:18.000
+Anika Rigby: Oh, yeah.
+
+00:12:17.000 --> 00:12:20.000
+JaeWon Kim: Yeah, so you can filter based on that.
+
+00:12:20.000 --> 00:12:25.000
+JaeWon Kim: And I'm not sure if we will actually implement this, but based on how.
+
+00:12:25.000 --> 00:12:31.000
+JaeWon Kim: How many times you liked certain users. Posts like their posts, are more likely to show up.
+
+00:12:31.000 --> 00:12:32.000
+JaeWon Kim: Um.
+
+00:12:33.000 --> 00:12:35.000
+JaeWon Kim: I don't know.
+
+00:12:35.000 --> 00:12:38.000
+Anika Rigby: Yeah, I, really, I really like that idea, actually.
+
+00:12:38.000 --> 00:12:41.000
+Anika Rigby: I didn't think of something like that. That's.
+
+00:12:41.000 --> 00:12:44.000
+Anika Rigby: Yeah, I think that's yeah.
+
+00:12:44.000 --> 00:12:45.000
+JaeWon Kim: Hmm.
+
+00:12:45.000 --> 00:12:47.000
+Anika Rigby: But with the likes, I think.
+
+00:12:47.000 --> 00:12:49.000
+JaeWon Kim: Mhm.
+
+00:12:48.000 --> 00:12:52.000
+Anika Rigby: Might be a little bit more difficult, in my opinion, just because.
+
+00:12:52.000 --> 00:12:53.000
+Anika Rigby: Um.
+
+00:12:54.000 --> 00:12:58.000
+Anika Rigby: I don't know like, because there's also the emoji reactions right?
+
+00:12:58.000 --> 00:12:59.000
+Anika Rigby: So.
+
+00:13:00.000 --> 00:13:03.000
+Anika Rigby: You might have to like work with.
+
+00:13:05.000 --> 00:13:08.000
+Anika Rigby: I don't know. I'm not sure where I was going with that, but.
+
+00:13:09.000 --> 00:13:11.000
+JaeWon Kim: Like, consider both of them in the algorithm. You mean.
+
+00:13:11.000 --> 00:13:13.000
+Anika Rigby: Yeah, cause, I.
+
+00:13:12.000 --> 00:13:13.000
+JaeWon Kim: Okay.
+
+00:13:13.000 --> 00:13:18.000
+Anika Rigby: I use the emojis a lot more than likes, and some of my friends are the same way.
+
+00:13:19.000 --> 00:13:21.000
+Anika Rigby: Which shows, I think, more.
+
+00:13:21.000 --> 00:13:25.000
+Anika Rigby: Interaction with each other, but not, I guess, in the traditional way.
+
+00:13:26.000 --> 00:13:28.000
+JaeWon Kim: What do you mean by like more interaction?
+
+00:13:29.000 --> 00:13:32.000
+Anika Rigby: Just because, like, if we aren't using the likes feature.
+
+00:13:32.000 --> 00:13:35.000
+Anika Rigby: We were just using the emoji instead.
+
+00:13:35.000 --> 00:13:37.000
+JaeWon Kim: And you think that emojis.
+
+00:13:37.000 --> 00:13:42.000
+JaeWon Kim: Are like richer than likes? Or is that not necessarily true?
+
+00:13:45.000 --> 00:13:47.000
+Anika Rigby: I, mhm.
+
+00:13:47.000 --> 00:13:50.000
+Anika Rigby: I think it depends because.
+
+00:13:50.000 --> 00:13:55.000
+Anika Rigby: Some. It's like the very happy, smiley face like I think that's more of a.
+
+00:13:55.000 --> 00:13:57.000
+Anika Rigby: Positive Interaction.
+
+00:13:57.000 --> 00:13:59.000
+Anika Rigby: Whereas you can also, I mean.
+
+00:14:00.000 --> 00:14:03.000
+Anika Rigby: You can also just use the normal, like, I suppose, for.
+
+00:14:04.000 --> 00:14:05.000
+Anika Rigby: Having more of a.
+
+00:14:06.000 --> 00:14:11.000
+Anika Rigby: General reaction to someone's post. But the emojis helps. You have, like more.
+
+00:14:11.000 --> 00:14:13.000
+Anika Rigby: Complex emotions portrayed.
+
+00:14:13.000 --> 00:14:19.000
+JaeWon Kim: Makes sense so in terms of the low maintenance thing uh. The other idea I have is that.
+
+00:14:20.000 --> 00:14:33.000
+JaeWon Kim: Um. Oftentimes, when you are getting used to a new app, you just forget about it. Like for the this experiment, we sort of like forced you guys to use it every day. So I think that sort of helped with, you know, remembering to use it.
+
+00:14:33.000 --> 00:14:41.000
+JaeWon Kim: And we spammed you with like daily notifications and all that. But ideally, we wouldn't want to do that because.
+
+00:14:41.000 --> 00:14:46.000
+JaeWon Kim: You know, low maintenance. Um, so I was thinking.
+
+00:14:46.000 --> 00:14:48.000
+JaeWon Kim: Having, like a separate.
+
+00:14:48.000 --> 00:14:54.000
+JaeWon Kim: Speed so like this is more like a speculative thing. But.
+
+00:14:54.000 --> 00:15:00.000
+JaeWon Kim: Imagine that all of your friends have this ipad, or like tablet next to your desk.
+
+00:15:00.000 --> 00:15:05.000
+JaeWon Kim: And that tablet only shows the feed of who am I? And that feed looks like.
+
+00:15:06.000 --> 00:15:16.000
+JaeWon Kim: Uh sort of a farm, not not a farm, but it's like a land, and whenever someone posts something it like lights up in a different color, or like when they do like a check in. Then.
+
+00:15:17.000 --> 00:15:22.000
+JaeWon Kim: It sort of shows in a summary that they updated something. Um.
+
+00:15:22.000 --> 00:15:25.000
+JaeWon Kim: So that you can.
+
+00:15:25.000 --> 00:15:28.000
+JaeWon Kim: You don't really interact with that feed.
+
+00:15:28.000 --> 00:15:35.000
+JaeWon Kim: Um like you upload things on the app still. But then, by having that thing, you just sort of like.
+
+00:15:35.000 --> 00:15:42.000
+JaeWon Kim: Feel their presence. Um, and you can let them know like right now, check-ins don't really.
+
+00:15:43.000 --> 00:15:51.000
+JaeWon Kim: Signal a lot of updates to other people. But then here you would feel a little bit more of that. How do you feel about that kind of interface.
+
+00:15:52.000 --> 00:15:54.000
+Anika Rigby: Yeah, I like that. I think.
+
+00:15:54.000 --> 00:16:03.000
+Anika Rigby: It would be nice. I'm not sure if it would really boost. How people are like, how often people are using the app in the 1st few days or weeks of them.
+
+00:16:03.000 --> 00:16:06.000
+Anika Rigby: Downloading it, though, just because I mean, I think it'd be.
+
+00:16:06.000 --> 00:16:10.000
+Anika Rigby: Really nice, just for everybody to be able to easily see.
+
+00:16:10.000 --> 00:16:13.000
+Anika Rigby: Um! How people are, how their friends are doing.
+
+00:16:13.000 --> 00:16:15.000
+Anika Rigby: But in terms of boosting.
+
+00:16:16.000 --> 00:16:20.000
+Anika Rigby: People's usage of the app. I'm not really clear on how that would help.
+
+00:16:21.000 --> 00:16:21.000
+JaeWon Kim: Hmm.
+
+00:16:23.000 --> 00:16:25.000
+JaeWon Kim: What do you think would help.
+
+00:16:27.000 --> 00:16:29.000
+Anika Rigby: I I think, more notifications.
+
+00:16:29.000 --> 00:16:30.000
+JaeWon Kim: Really.
+
+00:16:29.000 --> 00:16:35.000
+Anika Rigby: But I know that some people get really annoyed by it. I'm not someone who does really.
+
+00:16:36.000 --> 00:16:40.000
+Anika Rigby: But, like I'm not really sure how else you would get people's attention.
+
+00:16:40.000 --> 00:16:42.000
+Anika Rigby: To use it.
+
+00:16:41.000 --> 00:16:42.000
+JaeWon Kim: Hmm.
+
+00:16:43.000 --> 00:16:46.000
+JaeWon Kim: I think, like a thing that.
+
+00:16:47.000 --> 00:16:54.000
+JaeWon Kim: Is hard to convey to people is that when we're trying to build a community online like, it takes everyone's effort.
+
+00:16:54.000 --> 00:17:01.000
+JaeWon Kim: Like, and the more lurking that you do, it's harder for the overall community to build.
+
+00:17:01.000 --> 00:17:05.000
+JaeWon Kim: But it's really hard to sort of, you know. Convey that, and I guess.
+
+00:17:06.000 --> 00:17:07.000
+Anika Rigby: Yeah.
+
+00:17:06.000 --> 00:17:08.000
+JaeWon Kim: Yeah. Hmm.
+
+00:17:08.000 --> 00:17:16.000
+Anika Rigby: I mean, I suppose you could always like gamify it where it's like Duolingo, and you have, like friend Streaks, or something.
+
+00:17:16.000 --> 00:17:17.000
+JaeWon Kim: Mhm.
+
+00:17:16.000 --> 00:17:19.000
+Anika Rigby: Where, like 2 people, and if they post every day, they.
+
+00:17:19.000 --> 00:17:24.000
+Anika Rigby: Keep getting a higher number of days that they've been like together.
+
+00:17:24.000 --> 00:17:29.000
+JaeWon Kim: Do you have apps that have similar kind of interface like that?
+
+00:17:30.000 --> 00:17:33.000
+Anika Rigby: Honestly only, for like study apps.
+
+00:17:33.000 --> 00:17:36.000
+Anika Rigby: But I think it would be.
+
+00:17:36.000 --> 00:17:39.000
+Anika Rigby: Interesting to see it come to a social media app.
+
+00:17:39.000 --> 00:17:45.000
+JaeWon Kim: That's super cool. So like um. If you co-work like study together like it gives you points.
+
+00:17:45.000 --> 00:17:49.000
+JaeWon Kim: Okay? Or is it just like Duolingo? Ish thing.
+
+00:17:49.000 --> 00:17:51.000
+Anika Rigby: It's like Duolingo pretty much. Yeah.
+
+00:17:52.000 --> 00:17:55.000
+JaeWon Kim: Have you used forest before.
+
+00:17:55.000 --> 00:17:56.000
+Anika Rigby: Mhm.
+
+00:17:56.000 --> 00:17:59.000
+JaeWon Kim: Does it have a social feature? I don't remember.
+
+00:18:00.000 --> 00:18:02.000
+Anika Rigby: I'm not sure.
+
+00:18:02.000 --> 00:18:06.000
+Anika Rigby: If it did, I never used it anyways. Um!
+
+00:18:05.000 --> 00:18:06.000
+JaeWon Kim: Okay.
+
+00:18:07.000 --> 00:18:12.000
+Anika Rigby: Cause you were able to see each other's like trees.
+
+00:18:12.000 --> 00:18:13.000
+Anika Rigby: I think.
+
+00:18:13.000 --> 00:18:14.000
+JaeWon Kim: Hmm.
+
+00:18:16.000 --> 00:18:22.000
+JaeWon Kim: Yeah, I really like that idea, though, like, um, maybe not between individual friends, because.
+
+00:18:22.000 --> 00:18:26.000
+JaeWon Kim: Like. I've heard that from Snapchat and Burial, because.
+
+00:18:26.000 --> 00:18:28.000
+Anika Rigby: Oh, yeah, that's true.
+
+00:18:27.000 --> 00:18:32.000
+JaeWon Kim: Encouraged to like do it every day. It starts to like stress you out, but then um.
+
+00:18:31.000 --> 00:18:32.000
+Anika Rigby: Yeah.
+
+00:18:32.000 --> 00:18:45.000
+JaeWon Kim: Maybe gaining points for like contributing to the community like whenever you post, it's not like you are posting something to get your attention. It's more like, Oh, you share something with the community, and like you, too.
+
+00:18:45.000 --> 00:18:49.000
+JaeWon Kim: Uh he made a difference, I guess. Um.
+
+00:18:51.000 --> 00:18:53.000
+JaeWon Kim: Yeah, I like that. Thank you.
+
+00:18:54.000 --> 00:18:59.000
+JaeWon Kim: Um. So back to version 2.
+
+00:19:04.000 --> 00:19:07.000
+JaeWon Kim: Questions, sending.
+
+00:19:07.000 --> 00:19:11.000
+JaeWon Kim: Um. You briefly mentioned it, but um.
+
+00:19:12.000 --> 00:19:18.000
+JaeWon Kim: What was like the favorite part of having that feature, I guess. Like, how did it help with interactions?
+
+00:19:19.000 --> 00:19:26.000
+Anika Rigby: I think it was just nice to be able to prompt others, or to be prompted to share a little bit about yourself, because.
+
+00:19:26.000 --> 00:19:32.000
+Anika Rigby: I mean there, of course, like you can answer the questions daily, or if you miss a few, then somebody is able to come back to it, and just.
+
+00:19:33.000 --> 00:19:35.000
+Anika Rigby: Bring it back up again specifically to you.
+
+00:19:36.000 --> 00:19:45.000
+JaeWon Kim: Yeah. So in terms of like signaling that you're interested in someone. Uh, there's like different ways of doing it. Emoji reaction, private comments, sending questions or.
+
+00:19:45.000 --> 00:19:47.000
+JaeWon Kim: Ah like sending a message, I guess.
+
+00:19:48.000 --> 00:19:50.000
+JaeWon Kim: Um! How? How are they different in terms of.
+
+00:19:50.000 --> 00:19:54.000
+JaeWon Kim: How it feels as someone sending it or receiving it.
+
+00:19:56.000 --> 00:20:02.000
+Anika Rigby: I think to me the like reactions to your the post that you've already posted. It's.
+
+00:20:03.000 --> 00:20:05.000
+Anika Rigby: More expected.
+
+00:20:05.000 --> 00:20:12.000
+Anika Rigby: I guess. But question sending is like, Oh, this person thought of me and wanted to know what I had to say about that topic.
+
+00:20:13.000 --> 00:20:15.000
+JaeWon Kim: So it feels more.
+
+00:20:15.000 --> 00:20:17.000
+JaeWon Kim: Effortful, no.
+
+00:20:17.000 --> 00:20:19.000
+Anika Rigby: I suppose? So. Yeah.
+
+00:20:21.000 --> 00:20:22.000
+JaeWon Kim: Um.
+
+00:20:23.000 --> 00:20:25.000
+JaeWon Kim: Did you ever use the persona?
+
+00:20:25.000 --> 00:20:26.000
+JaeWon Kim: Feature.
+
+00:20:27.000 --> 00:20:31.000
+Anika Rigby: I I did when I signed up for the app, because.
+
+00:20:31.000 --> 00:20:37.000
+Anika Rigby: It just seems like the thing to do when you're making your account. But I'm not really sure if it was.
+
+00:20:37.000 --> 00:20:41.000
+Anika Rigby: That beneficial, at least in my opinion, because.
+
+00:20:41.000 --> 00:20:46.000
+Anika Rigby: There was a lot of different ones, and I think I clicked off like 10 or something, so.
+
+00:20:46.000 --> 00:20:52.000
+Anika Rigby: I'm sure a lot of my friends didn't want to read through all of the ones that I thought I fit into.
+
+00:20:52.000 --> 00:20:59.000
+Anika Rigby: And I didn't like. I think I think that just because I didn't really look at other people's because.
+
+00:21:01.000 --> 00:21:04.000
+Anika Rigby: I mean with the close friends already. I already know their personalities too.
+
+00:21:05.000 --> 00:21:08.000
+Anika Rigby: But I think for making new friends again.
+
+00:21:08.000 --> 00:21:13.000
+Anika Rigby: It could help a lot to kind of see their like.
+
+00:21:13.000 --> 00:21:15.000
+Anika Rigby: Vibe, I suppose.
+
+00:21:16.000 --> 00:21:20.000
+JaeWon Kim: Hmm, then, do you think having like 3 specific ones like.
+
+00:21:20.000 --> 00:21:25.000
+JaeWon Kim: Style of reaction, or like cadence, of viewing.
+
+00:21:25.000 --> 00:21:31.000
+JaeWon Kim: Like major social media usage styles, and having one for each.
+
+00:21:32.000 --> 00:21:34.000
+JaeWon Kim: Do you think that would help better.
+
+00:21:34.000 --> 00:21:38.000
+Anika Rigby: Yeah, maybe I'm hmm.
+
+00:21:40.000 --> 00:21:43.000
+Anika Rigby: I think it would be nice for them to be more like.
+
+00:21:44.000 --> 00:21:47.000
+Anika Rigby: Out like I I guess, outlined.
+
+00:21:47.000 --> 00:21:50.000
+Anika Rigby: So that way, like for specific.
+
+00:21:50.000 --> 00:21:52.000
+Anika Rigby: Um.
+
+00:21:53.000 --> 00:21:56.000
+Anika Rigby: Specific prompts, I guess, like.
+
+00:21:56.000 --> 00:21:59.000
+Anika Rigby: Again, like the how often they use the app.
+
+00:21:59.000 --> 00:22:04.000
+Anika Rigby: They could say how like just how much they do like once daily, once, weekly, or something.
+
+00:22:06.000 --> 00:22:07.000
+Anika Rigby: But.
+
+00:22:11.000 --> 00:22:14.000
+JaeWon Kim: What did you mean by them being more outlined.
+
+00:22:14.000 --> 00:22:17.000
+Anika Rigby: Like specifically like on their profile.
+
+00:22:17.000 --> 00:22:26.000
+Anika Rigby: Where it would be kind of just a more main feature of your profile, where it's instead of just being like the small like bubbles.
+
+00:22:26.000 --> 00:22:27.000
+JaeWon Kim: Mhm.
+
+00:22:26.000 --> 00:22:28.000
+Anika Rigby: It can be like.
+
+00:22:28.000 --> 00:22:29.000
+Anika Rigby: Um.
+
+00:22:30.000 --> 00:22:32.000
+Anika Rigby: Person like there, what is.
+
+00:22:32.000 --> 00:22:35.000
+Anika Rigby: Hold on! Let me look really quick.
+
+00:22:34.000 --> 00:22:35.000
+JaeWon Kim: Mhm.
+
+00:22:36.000 --> 00:22:38.000
+Anika Rigby: Like this is.
+
+00:22:39.000 --> 00:22:42.000
+Anika Rigby: How like open I am to conversation!
+
+00:22:42.000 --> 00:22:45.000
+Anika Rigby: And this is my personality in.
+
+00:22:45.000 --> 00:22:50.000
+Anika Rigby: Um doing certain types of tasks. And this is the kind of conversation I like to have.
+
+00:22:51.000 --> 00:22:55.000
+Anika Rigby: Something like that. But again, that would be like a little bit more bulky.
+
+00:22:56.000 --> 00:23:00.000
+Anika Rigby: Terms of your profile, instead of just being like a nice little thing.
+
+00:23:01.000 --> 00:23:04.000
+JaeWon Kim: But then, if we had to like.
+
+00:23:05.000 --> 00:23:07.000
+JaeWon Kim: Click into something to view it.
+
+00:23:08.000 --> 00:23:11.000
+JaeWon Kim: Then people are less likely to view it right.
+
+00:23:11.000 --> 00:23:13.000
+Anika Rigby: Yeah.
+
+00:23:14.000 --> 00:23:20.000
+JaeWon Kim: Mobile phones are mobile apps are hard to design like. So it's such limited space.
+
+00:23:17.000 --> 00:23:19.000
+Anika Rigby: Mhm.
+
+00:23:20.000 --> 00:23:22.000
+Anika Rigby: Yeah.
+
+00:23:21.000 --> 00:23:26.000
+JaeWon Kim: Yeah, anyway. Um. Do you remember the time that you transitioned to version R.
+
+00:23:28.000 --> 00:23:33.000
+Anika Rigby: Vaguely. It was a very, very busy time for me.
+
+00:23:33.000 --> 00:23:39.000
+Anika Rigby: Because we're preparing for the like big competition that we were able to win 1st place in. But yeah.
+
+00:23:39.000 --> 00:23:41.000
+JaeWon Kim: Congrats um.
+
+00:23:41.000 --> 00:23:46.000
+JaeWon Kim: So did you like sense any shifts in norms of the app?
+
+00:23:49.000 --> 00:23:51.000
+Anika Rigby: Um.
+
+00:23:51.000 --> 00:23:54.000
+Anika Rigby: I think that people just kind of stopped.
+
+00:23:55.000 --> 00:23:57.000
+Anika Rigby: Using it as often.
+
+00:23:57.000 --> 00:24:03.000
+Anika Rigby: Because I think, for starting inversion queue. It felt more like the app was based around the questions like.
+
+00:24:03.000 --> 00:24:06.000
+Anika Rigby: I think I was the.
+
+00:24:06.000 --> 00:24:08.000
+Anika Rigby: Only person, out of.
+
+00:24:08.000 --> 00:24:13.000
+Anika Rigby: My like little like starter group that made any posts.
+
+00:24:13.000 --> 00:24:18.000
+Anika Rigby: And everybody else was just using the Q. And as up until we had to transition.
+
+00:24:19.000 --> 00:24:22.000
+Anika Rigby: But the version r.
+
+00:24:22.000 --> 00:24:24.000
+Anika Rigby: Was kind of.
+
+00:24:25.000 --> 00:24:32.000
+Anika Rigby: More difficult for people just because they had to actually like generate content on their own. And they couldn't just use.
+
+00:24:32.000 --> 00:24:35.000
+Anika Rigby: Um like the questions as a prompt to doing so.
+
+00:24:36.000 --> 00:24:37.000
+JaeWon Kim: Let's see.
+
+00:24:39.000 --> 00:24:42.000
+JaeWon Kim: So I guess um.
+
+00:24:42.000 --> 00:24:47.000
+JaeWon Kim: On regular social media most of the time. There aren't any prompts, you know, like.
+
+00:24:47.000 --> 00:24:48.000
+Anika Rigby: Yeah.
+
+00:24:47.000 --> 00:24:53.000
+JaeWon Kim: Tumbler Instagram um. But people still find things to share.
+
+00:24:52.000 --> 00:24:53.000
+Anika Rigby: Mhm.
+
+00:24:56.000 --> 00:25:02.000
+JaeWon Kim: I'm wondering if some people or designers might say that version. 2 sort of.
+
+00:25:03.000 --> 00:25:05.000
+JaeWon Kim: Made people dumb, or like.
+
+00:25:06.000 --> 00:25:11.000
+JaeWon Kim: You know, like they're not able to find things to post about anymore.
+
+00:25:11.000 --> 00:25:17.000
+JaeWon Kim: Is that? Does it have that kind of effect? Or is it more like the norms like you're.
+
+00:25:12.000 --> 00:25:13.000
+Anika Rigby: Yeah.
+
+00:25:17.000 --> 00:25:22.000
+JaeWon Kim: Confused what you should be doing in this new app sort of situation.
+
+00:25:23.000 --> 00:25:27.000
+Anika Rigby: I think it's mostly how we were just starting with version queue, which was.
+
+00:25:27.000 --> 00:25:29.000
+Anika Rigby: Of course, very question based.
+
+00:25:30.000 --> 00:25:35.000
+Anika Rigby: And we didn't have the like list or the normal type of feed. We only had the list feed.
+
+00:25:35.000 --> 00:25:42.000
+Anika Rigby: And um, I mean, maybe people who started with version R had a better experience in being able to also do like.
+
+00:25:43.000 --> 00:25:46.000
+Anika Rigby: Normal posts. In addition to the questions.
+
+00:25:46.000 --> 00:25:50.000
+Anika Rigby: But it was. It was definitely just how we started with Q.
+
+00:25:50.000 --> 00:25:54.000
+JaeWon Kim: Hmm! So when you got that scrollable feed, did you find yourself.
+
+00:25:55.000 --> 00:25:57.000
+JaeWon Kim: Being influenced by that at all.
+
+00:25:57.000 --> 00:26:03.000
+Anika Rigby: I'm not sure if I would say influenced, but I definitely checked the app more often, just to see if people.
+
+00:26:03.000 --> 00:26:06.000
+Anika Rigby: Had put any updates that I could easily view.
+
+00:26:06.000 --> 00:26:08.000
+JaeWon Kim: I see uh.
+
+00:26:09.000 --> 00:26:12.000
+JaeWon Kim: So when you post things, I guess it's a little more.
+
+00:26:12.000 --> 00:26:14.000
+JaeWon Kim: Public on version R.
+
+00:26:14.000 --> 00:26:16.000
+JaeWon Kim: Um? Did it feel that way, or.
+
+00:26:16.000 --> 00:26:18.000
+JaeWon Kim: Not necessarily.
+
+00:26:18.000 --> 00:26:21.000
+Anika Rigby: Not really because.
+
+00:26:21.000 --> 00:26:24.000
+Anika Rigby: I mean I there wasn't the close friends feature right.
+
+00:26:25.000 --> 00:26:27.000
+Anika Rigby: It was there.
+
+00:26:25.000 --> 00:26:28.000
+JaeWon Kim: I don't know. I think you could.
+
+00:26:29.000 --> 00:26:33.000
+JaeWon Kim: Uh sign someone as close friends. But the default audience wasn't close friends.
+
+00:26:33.000 --> 00:26:35.000
+Anika Rigby: Okay. Mm.
+
+00:26:36.000 --> 00:26:38.000
+Anika Rigby: I don't think it felt more like public.
+
+00:26:38.000 --> 00:26:43.000
+Anika Rigby: Just because if you're able to do close friends or not, and also.
+
+00:26:43.000 --> 00:26:49.000
+Anika Rigby: Because I mean, people could see your posts, no matter if there was a scroll over feed or not.
+
+00:26:49.000 --> 00:26:52.000
+Anika Rigby: It just made it easier to see it, I suppose.
+
+00:26:52.000 --> 00:26:55.000
+JaeWon Kim: See hmm.
+
+00:26:55.000 --> 00:27:01.000
+JaeWon Kim: Then, compared to like Instagram's feed and version R's fees? Is there a difference in terms of how it feels.
+
+00:27:04.000 --> 00:27:10.000
+Anika Rigby: I like the version R feed a lot better than a lot of social media feeds that I've seen before.
+
+00:27:10.000 --> 00:27:13.000
+Anika Rigby: Just because you are really seeing what.
+
+00:27:13.000 --> 00:27:19.000
+Anika Rigby: Like people who you are interested in and are already friends with, are doing as compared to like.
+
+00:27:20.000 --> 00:27:26.000
+Anika Rigby: On Instagram and Linkedin. I'm not really seeing my friends posts, but rather like.
+
+00:27:26.000 --> 00:27:29.000
+Anika Rigby: Just something that's boosted by online.
+
+00:27:29.000 --> 00:27:31.000
+Anika Rigby: Instead, so.
+
+00:27:32.000 --> 00:27:37.000
+Anika Rigby: I like the scrollable feed a lot on version R, and I think it would be nice.
+
+00:27:37.000 --> 00:27:40.000
+Anika Rigby: Like you're saying to be able to um.
+
+00:27:40.000 --> 00:27:45.000
+Anika Rigby: Like click on people's profiles to expand it inside the feed.
+
+00:27:45.000 --> 00:27:48.000
+Anika Rigby: And then there could also be, maybe, like a section.
+
+00:27:48.000 --> 00:27:52.000
+Anika Rigby: Within that for those other people with the anonymity.
+
+00:27:54.000 --> 00:27:56.000
+JaeWon Kim: Yeah, makes sense.
+
+00:27:57.000 --> 00:28:02.000
+JaeWon Kim: Um. So do you mind explaining like just going through.
+
+00:28:02.000 --> 00:28:09.000
+JaeWon Kim: How you use. Version 2 and version R. From the moment you open the app until you close it.
+
+00:28:10.000 --> 00:28:15.000
+Anika Rigby: Mostly on version QI would open it, and I would do. Maybe.
+
+00:28:15.000 --> 00:28:19.000
+Anika Rigby: One of the check-ins, and then I would look through um.
+
+00:28:20.000 --> 00:28:24.000
+Anika Rigby: And give one of my like answer one of the questions for the day.
+
+00:28:24.000 --> 00:28:32.000
+Anika Rigby: And then I would go in and look at other people's posts, maybe react or comment on them.
+
+00:28:32.000 --> 00:28:39.000
+Anika Rigby: Whereas on version RI mostly just opened the app, and then, like liked or commented, and then.
+
+00:28:39.000 --> 00:28:41.000
+Anika Rigby: That was it.
+
+00:28:40.000 --> 00:28:42.000
+JaeWon Kim: Hmm.
+
+00:28:42.000 --> 00:28:43.000
+JaeWon Kim: So.
+
+00:28:45.000 --> 00:28:53.000
+JaeWon Kim: How did it feel different in terms of what you were doing like, which felt more interactive or more.
+
+00:28:54.000 --> 00:28:57.000
+JaeWon Kim: I don't know how. How did they feel different?
+
+00:28:58.000 --> 00:29:05.000
+Anika Rigby: I think Q is much more interactive just because of the daily questions.
+
+00:29:05.000 --> 00:29:07.000
+Anika Rigby: And also.
+
+00:29:07.000 --> 00:29:13.000
+Anika Rigby: Actually, no, yeah. The daily questions with each other, because, of course, like, you could.
+
+00:29:13.000 --> 00:29:20.000
+Anika Rigby: Post to each other, and I did, but not as often as I did on version Q. Just because, having the.
+
+00:29:20.000 --> 00:29:24.000
+Anika Rigby: Questions, and especially being able to be sent questions, was really.
+
+00:29:25.000 --> 00:29:28.000
+Anika Rigby: More easy or easier to.
+
+00:29:28.000 --> 00:29:31.000
+Anika Rigby: Just have a small post instead of.
+
+00:29:31.000 --> 00:29:33.000
+Anika Rigby: Having to like.
+
+00:29:33.000 --> 00:29:37.000
+Anika Rigby: Write it, write a full sentence, or post a picture.
+
+00:29:37.000 --> 00:29:43.000
+JaeWon Kim: Hmm! What enables that? What about question sending makes it feel that way?
+
+00:29:44.000 --> 00:29:49.000
+Anika Rigby: I think it's just that you could answer as much in depth as you wanted to.
+
+00:29:49.000 --> 00:29:55.000
+Anika Rigby: You don't have to, or at least I felt like you didn't have to write like a full.
+
+00:29:55.000 --> 00:30:01.000
+Anika Rigby: 2 or 3 sentences. For most of the questions. It could really just be like one word or a color or something.
+
+00:30:01.000 --> 00:30:02.000
+JaeWon Kim: Hmm.
+
+00:30:04.000 --> 00:30:13.000
+JaeWon Kim: Um. So if we were to use analogies to describe the sort of interactions that went on version Q and version R.
+
+00:30:13.000 --> 00:30:15.000
+JaeWon Kim: Um.
+
+00:30:16.000 --> 00:30:19.000
+JaeWon Kim: What would you compare those to like.
+
+00:30:20.000 --> 00:30:24.000
+JaeWon Kim: In real life interactions like talking to strangers or like.
+
+00:30:26.000 --> 00:30:28.000
+JaeWon Kim: Sending them a mail. I don't know.
+
+00:30:29.000 --> 00:30:32.000
+Anika Rigby: I think that version Q.
+
+00:30:32.000 --> 00:30:36.000
+Anika Rigby: Is kind of like walking around with flashcards ready to.
+
+00:30:37.000 --> 00:30:40.000
+Anika Rigby: Like have a prompted conversation.
+
+00:30:40.000 --> 00:30:45.000
+Anika Rigby: And like, kind of get into how you're going to talk to someone because.
+
+00:30:45.000 --> 00:30:50.000
+Anika Rigby: If you thought someone said something that was like just very surprising or.
+
+00:30:50.000 --> 00:30:53.000
+Anika Rigby: Something that you would not have expected from them.
+
+00:30:53.000 --> 00:30:56.000
+Anika Rigby: You could strike up a pretty nice conversation about it.
+
+00:30:57.000 --> 00:31:00.000
+Anika Rigby: Whereas version R is just going out into the world.
+
+00:31:02.000 --> 00:31:03.000
+JaeWon Kim: Um.
+
+00:31:04.000 --> 00:31:05.000
+JaeWon Kim: And.
+
+00:31:06.000 --> 00:31:08.000
+JaeWon Kim: And what.
+
+00:31:07.000 --> 00:31:09.000
+Anika Rigby: Hmm.
+
+00:31:08.000 --> 00:31:12.000
+JaeWon Kim: And what like um, what would you be doing.
+
+00:31:12.000 --> 00:31:14.000
+JaeWon Kim: Going out and.
+
+00:31:16.000 --> 00:31:20.000
+Anika Rigby: Oh, yeah, like, just trying to talk to people.
+
+00:31:21.000 --> 00:31:25.000
+Anika Rigby: I guess I think version Q was a little bit more guided.
+
+00:31:25.000 --> 00:31:31.000
+Anika Rigby: So maybe our analogy could be in like a specific setting or event.
+
+00:31:31.000 --> 00:31:34.000
+Anika Rigby: Whereas version R really felt like just going into the city.
+
+00:31:34.000 --> 00:31:37.000
+Anika Rigby: I'm not sure I mean without the fact of like the.
+
+00:31:37.000 --> 00:31:41.000
+Anika Rigby: Not seeing other people that aren't your friends.
+
+00:31:41.000 --> 00:31:46.000
+Anika Rigby: But it was more like you had to go and really find something to say.
+
+00:31:47.000 --> 00:31:54.000
+Anika Rigby: But at the same time all of these people are like readily available to have their profiles or posts viewed on the feed.
+
+00:31:56.000 --> 00:31:57.000
+Anika Rigby: Hmm.
+
+00:32:00.000 --> 00:32:02.000
+Anika Rigby: So actually, yeah.
+
+00:32:03.000 --> 00:32:05.000
+Anika Rigby: I don't know.
+
+00:32:06.000 --> 00:32:07.000
+JaeWon Kim: Um.
+
+00:32:07.000 --> 00:32:12.000
+JaeWon Kim: Then what did you think were the intentions of Version Q. And.
+
+00:32:12.000 --> 00:32:16.000
+JaeWon Kim: Are like in terms of your perceptions.
+
+00:32:16.000 --> 00:32:21.000
+Anika Rigby: I think that version R felt more like a traditional social media app.
+
+00:32:22.000 --> 00:32:24.000
+Anika Rigby: Because I mean there wasn't.
+
+00:32:24.000 --> 00:32:29.000
+Anika Rigby: Like the like algorithm, algorithmic style of feed.
+
+00:32:29.000 --> 00:32:34.000
+Anika Rigby: Like with Instagram, which was nice, but other than that it felt very.
+
+00:32:34.000 --> 00:32:35.000
+Anika Rigby: Um.
+
+00:32:36.000 --> 00:32:39.000
+Anika Rigby: More on the basis of.
+
+00:32:39.000 --> 00:32:46.000
+Anika Rigby: The people posting to be able to interact with each other, whereas version Q was like.
+
+00:32:46.000 --> 00:32:49.000
+Anika Rigby: Again very guided and.
+
+00:32:49.000 --> 00:32:51.000
+Anika Rigby: A lot easier to just.
+
+00:32:52.000 --> 00:32:56.000
+Anika Rigby: Um, I don't know. Like even have more fun on the app.
+
+00:32:58.000 --> 00:32:59.000
+JaeWon Kim: Hmm.
+
+00:33:00.000 --> 00:33:03.000
+Anika Rigby: While you're still making connections.
+
+00:33:04.000 --> 00:33:06.000
+JaeWon Kim: Hmm! I see.
+
+00:33:07.000 --> 00:33:08.000
+JaeWon Kim: So.
+
+00:33:09.000 --> 00:33:14.000
+JaeWon Kim: I heard that like amongst teens, there's like certain ways of making your Instagram accounts.
+
+00:33:14.000 --> 00:33:16.000
+JaeWon Kim: Cool um.
+
+00:33:19.000 --> 00:33:23.000
+JaeWon Kim: Is it possible to.
+
+00:33:23.000 --> 00:33:26.000
+JaeWon Kim: Make a social media platform that.
+
+00:33:28.000 --> 00:33:33.000
+JaeWon Kim: Doesn't feel uncool. But then it's different than how Instagram interactions are like.
+
+00:33:35.000 --> 00:33:38.000
+JaeWon Kim: Would that be accepted to teams? Yeah. Sorry.
+
+00:33:38.000 --> 00:33:41.000
+Anika Rigby: I think sorry. Um.
+
+00:33:42.000 --> 00:33:44.000
+Anika Rigby: Even though it did have the feed it.
+
+00:33:44.000 --> 00:34:00.000
+Anika Rigby: I think what makes someone's like Instagram profile cool is that like you can see their like, say, like the posts that they have really easily in like kind of a picture frame format, and then also, like the stories that they like the story highlights that they have saved.
+
+00:34:01.000 --> 00:34:03.000
+Anika Rigby: Whereas on wit, it's.
+
+00:34:03.000 --> 00:34:05.000
+Anika Rigby: Like you can really just see.
+
+00:34:06.000 --> 00:34:11.000
+Anika Rigby: Um, like every all of the posts, instead of having, like.
+
+00:34:12.000 --> 00:34:17.000
+Anika Rigby: The highlights kind of idea. So it kind of alleviates some of that pressure to me.
+
+00:34:18.000 --> 00:34:23.000
+Anika Rigby: Where you don't really have to worry about having a certain style of like.
+
+00:34:24.000 --> 00:34:31.000
+Anika Rigby: Post or titles or pictures, just because you're scrolling, and there isn't a way.
+
+00:34:31.000 --> 00:34:37.000
+Anika Rigby: I mean, I guess if you just keep looking, you can do that. But you don't see, like all of the like pictures. All at once.
+
+00:34:38.000 --> 00:34:39.000
+Anika Rigby: Ah yes!
+
+00:34:39.000 --> 00:34:41.000
+JaeWon Kim: Hmm, yeah.
+
+00:34:41.000 --> 00:34:44.000
+JaeWon Kim: Um just as a follow up, I guess. Um.
+
+00:34:44.000 --> 00:34:50.000
+JaeWon Kim: So. Some people, not everyone, but some people, feel that.
+
+00:34:50.000 --> 00:34:56.000
+JaeWon Kim: Being a teen, or like young adults, being cool, is very important to them, and um.
+
+00:34:56.000 --> 00:34:58.000
+JaeWon Kim: They were.
+
+00:34:58.000 --> 00:35:06.000
+JaeWon Kim: Sort of hesitant. That version, 2 using it with their friends, would come off as like not cool. Um.
+
+00:35:06.000 --> 00:35:10.000
+JaeWon Kim: And that made me wonder.
+
+00:35:11.000 --> 00:35:18.000
+JaeWon Kim: Because social media. It's important to get accepted by a wide range of people because you guys are trying to connect with others.
+
+00:35:19.000 --> 00:35:20.000
+JaeWon Kim: Um.
+
+00:35:22.000 --> 00:35:25.000
+JaeWon Kim: What makes something uncool and.
+
+00:35:26.000 --> 00:35:29.000
+JaeWon Kim: Like what would get version queue.
+
+00:35:29.000 --> 00:35:34.000
+JaeWon Kim: Accepted by more people, and what kind of people would appreciate? Version? 2. The most.
+
+00:35:35.000 --> 00:35:36.000
+JaeWon Kim: I'm asking a lot of questions.
+
+00:35:36.000 --> 00:35:42.000
+Anika Rigby: It's okay. I think that version queue, at least to me. I used it as more of.
+
+00:35:42.000 --> 00:35:46.000
+Anika Rigby: A kind of personality, sharing, app.
+
+00:35:46.000 --> 00:35:52.000
+Anika Rigby: Instead of trying to have more of like the coolness, feature.
+
+00:35:52.000 --> 00:35:57.000
+Anika Rigby: Because it really felt like it felt more to me.
+
+00:35:57.000 --> 00:36:01.000
+Anika Rigby: Like just seeing how people are doing and.
+
+00:36:01.000 --> 00:36:05.000
+Anika Rigby: Kind of a little bit of an insight into their brain.
+
+00:36:05.000 --> 00:36:13.000
+Anika Rigby: Whereas maybe version R wasn't so much like that, just because there wasn't like the questions or the daily check-ins.
+
+00:36:14.000 --> 00:36:15.000
+Anika Rigby: But.
+
+00:36:17.000 --> 00:36:20.000
+Anika Rigby: I I didn't really think of it as.
+
+00:36:21.000 --> 00:36:23.000
+Anika Rigby: At least in my experience as.
+
+00:36:24.000 --> 00:36:26.000
+Anika Rigby: Kind of gauging whether someone was.
+
+00:36:26.000 --> 00:36:30.000
+Anika Rigby: Fitting into like the cool standard or not, just because.
+
+00:36:31.000 --> 00:36:36.000
+Anika Rigby: For me. I definitely didn't use it like that. I posted just pretty.
+
+00:36:36.000 --> 00:36:38.000
+Anika Rigby: Much anything silly that I thought about.
+
+00:36:39.000 --> 00:36:40.000
+Anika Rigby: And.
+
+00:36:42.000 --> 00:36:48.000
+Anika Rigby: I think it really depends on someone's past experiences with certain social media platforms, too.
+
+00:36:48.000 --> 00:36:53.000
+Anika Rigby: Because, like people who are coming from Instagram may have more of this.
+
+00:36:53.000 --> 00:36:56.000
+Anika Rigby: Um notion of doing.
+
+00:36:57.000 --> 00:36:58.000
+Anika Rigby: Doing, so.
+
+00:36:59.000 --> 00:37:01.000
+Anika Rigby: Whereas, like, I think.
+
+00:37:01.000 --> 00:37:07.000
+Anika Rigby: It could be nice for people who don't have a lot of experience with social media to be able to do this because.
+
+00:37:07.000 --> 00:37:11.000
+Anika Rigby: It leaves a bit more of a positive experience.
+
+00:37:11.000 --> 00:37:13.000
+Anika Rigby: To me at least.
+
+00:37:13.000 --> 00:37:21.000
+JaeWon Kim: Hmm! What kind of positive experiences did you have if you were to be more specific.
+
+00:37:21.000 --> 00:37:25.000
+Anika Rigby: I think just getting to know my friends better.
+
+00:37:25.000 --> 00:37:28.000
+Anika Rigby: Instead of trying to like show off.
+
+00:37:28.000 --> 00:37:31.000
+Anika Rigby: Like the cool sunset that I saw.
+
+00:37:31.000 --> 00:37:36.000
+Anika Rigby: Um like you're really seeing more.
+
+00:37:37.000 --> 00:37:40.000
+Anika Rigby: Personality and.
+
+00:37:41.000 --> 00:37:46.000
+Anika Rigby: Kind of people's manner, not mannerisms, but.
+
+00:37:46.000 --> 00:37:49.000
+Anika Rigby: Um! How they live their life.
+
+00:37:49.000 --> 00:37:53.000
+JaeWon Kim: Mhm, so you're like, actually getting to know people.
+
+00:37:53.000 --> 00:38:00.000
+Anika Rigby: Yeah, like seeing how people are doing day to day instead of just like the highlights or the best parts of their lives.
+
+00:38:02.000 --> 00:38:09.000
+JaeWon Kim: Yeah. Well, I appreciate all your insights, a lot and um like, just from your answers, like you.
+
+00:38:09.000 --> 00:38:15.000
+JaeWon Kim: I don't know if you noticed, but you say like, Oh, it depends. And it's like multiple things. And.
+
+00:38:16.000 --> 00:38:20.000
+JaeWon Kim: It's very hard for younger people to have that kind of.
+
+00:38:22.000 --> 00:38:24.000
+JaeWon Kim: Not very.
+
+00:38:25.000 --> 00:38:28.000
+JaeWon Kim: Like more uncertainties and abstracted.
+
+00:38:28.000 --> 00:38:31.000
+JaeWon Kim: Thinking, you know. So um.
+
+00:38:31.000 --> 00:38:34.000
+JaeWon Kim: Yeah, it's very helpful and.
+
+00:38:34.000 --> 00:38:40.000
+JaeWon Kim: I am right now trying to write a grant to get some money to.
+
+00:38:40.000 --> 00:38:46.000
+JaeWon Kim: Organize a Youth Advisory board so that we can sort of like pay. You guys fellowship to.
+
+00:38:46.000 --> 00:38:52.000
+JaeWon Kim: Make it into an actual thing. Because, like all these interviews and user testing that you guys are doing.
+
+00:38:52.000 --> 00:38:55.000
+JaeWon Kim: You're already like.
+
+00:38:55.000 --> 00:38:58.000
+JaeWon Kim: Part of the design, like, you guys are.
+
+00:38:58.000 --> 00:39:03.000
+JaeWon Kim: Like actively contributing to it. But then I feel like it's very hard to.
+
+00:39:03.000 --> 00:39:09.000
+JaeWon Kim: Give back in a way that makes sense. Um, unless there's like very concrete.
+
+00:39:09.000 --> 00:39:12.000
+JaeWon Kim: Things. Um, so we are working on that.
+
+00:39:13.000 --> 00:39:18.000
+JaeWon Kim: Um, and I hope that you could join if you have the time.
+
+00:39:18.000 --> 00:39:23.000
+JaeWon Kim: Um. Do you know, like where I might be able to find.
+
+00:39:24.000 --> 00:39:26.000
+JaeWon Kim: Like smart.
+
+00:39:27.000 --> 00:39:31.000
+JaeWon Kim: Um. People like you that would be interested in.
+
+00:39:32.000 --> 00:39:34.000
+JaeWon Kim: Making, social media.
+
+00:39:34.000 --> 00:39:36.000
+JaeWon Kim: Better, or the design aspects of it.
+
+00:39:41.000 --> 00:39:44.000
+Anika Rigby: I'm not sure on that one.
+
+00:39:44.000 --> 00:39:48.000
+Anika Rigby: Because I think it really takes.
+
+00:39:48.000 --> 00:39:56.000
+Anika Rigby: Certain types of people to want to dedicate their time to something like this, because, I mean, I think this is a great app, and it's.
+
+00:39:57.000 --> 00:39:58.000
+Anika Rigby: I think could prove.
+
+00:39:59.000 --> 00:40:04.000
+Anika Rigby: Very beneficial for a lot of different kinds of people, but in terms of creating the app itself.
+
+00:40:05.000 --> 00:40:06.000
+Anika Rigby: It's.
+
+00:40:07.000 --> 00:40:13.000
+Anika Rigby: Just very difficult to find people that want to put in the time or the thought into it, just because.
+
+00:40:13.000 --> 00:40:18.000
+Anika Rigby: A lot of people nowadays are, of course, very busy with their own lives. Already.
+
+00:40:19.000 --> 00:40:21.000
+Anika Rigby: But I mean.
+
+00:40:21.000 --> 00:40:26.000
+Anika Rigby: I 1st discovered, like you and your research through like.
+
+00:40:26.000 --> 00:40:28.000
+Anika Rigby: Instagram promotions. I think.
+
+00:40:28.000 --> 00:40:29.000
+JaeWon Kim: Hmm.
+
+00:40:29.000 --> 00:40:31.000
+Anika Rigby: So I don't know.
+
+00:40:32.000 --> 00:40:37.000
+Anika Rigby: Could always go back to that, I suppose, but that was like really.
+
+00:40:38.000 --> 00:40:40.000
+Anika Rigby: Like when I.
+
+00:40:41.000 --> 00:40:48.000
+Anika Rigby: 1st clicked on that post, and like followed the link. I didn't expect that it would turn into something like this which I'm grateful for, but it's definitely.
+
+00:40:48.000 --> 00:40:50.000
+Anika Rigby: More um.
+
+00:40:51.000 --> 00:40:53.000
+Anika Rigby: I guess unprecedented.
+
+00:40:53.000 --> 00:40:58.000
+JaeWon Kim: Hmm, then do you have an idea for how I might be able to.
+
+00:40:58.000 --> 00:41:01.000
+JaeWon Kim: Filter people more quickly in terms of.
+
+00:41:02.000 --> 00:41:06.000
+JaeWon Kim: Um cause. There's a lot of scammers there's like 50 year olds trying to.
+
+00:41:06.000 --> 00:41:09.000
+JaeWon Kim: Yeah, it's it's crazy. Um.
+
+00:41:10.000 --> 00:41:12.000
+JaeWon Kim: Any sort of question that would.
+
+00:41:13.000 --> 00:41:20.000
+JaeWon Kim: Help me gauge whether it's like a legit team that's actually interested in social media.
+
+00:41:20.000 --> 00:41:22.000
+JaeWon Kim: Perfect. Yeah.
+
+00:41:20.000 --> 00:41:22.000
+Anika Rigby: One hmm.
+
+00:41:22.000 --> 00:41:24.000
+JaeWon Kim: Go ahead!
+
+00:41:22.000 --> 00:41:27.000
+Anika Rigby: What do you think drives those people to join? Because.
+
+00:41:27.000 --> 00:41:33.000
+Anika Rigby: Like that's really odd, I don't know. Like, is it like the like gift cards, or something?
+
+00:41:33.000 --> 00:41:35.000
+Anika Rigby: Or, yeah.
+
+00:41:36.000 --> 00:41:40.000
+Anika Rigby: I mean, I suppose you could advertise it as not being paid.
+
+00:41:40.000 --> 00:41:44.000
+Anika Rigby: And then, when that person has showed, like enough commitment.
+
+00:41:44.000 --> 00:41:46.000
+Anika Rigby: You could be like it also.
+
+00:41:46.000 --> 00:41:48.000
+Anika Rigby: But that would also just be kind of.
+
+00:41:48.000 --> 00:41:52.000
+Anika Rigby: Weird, too, and I don't know.
+
+00:41:53.000 --> 00:41:58.000
+JaeWon Kim: That's a good point. Maybe, like framing it differently, could help.
+
+00:41:59.000 --> 00:42:01.000
+Anika Rigby: Yeah.
+
+00:42:01.000 --> 00:42:09.000
+JaeWon Kim: Alright! Thanks a lot for all your help and um. I'll reach out again. Um, in case you're interested, and.
+
+00:42:10.000 --> 00:42:12.000
+JaeWon Kim: Hope you enjoy the rest of the day.
+
